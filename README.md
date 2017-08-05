@@ -7,4 +7,3 @@ $ npm start
 ###### API
 ```
 http://reduxblog.herokuapp.com
-```
